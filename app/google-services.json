@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "1078371730465",
+    "firebase_url": "https://cardrecyclefrebase.firebaseio.com",
+    "project_id": "cardrecyclefrebase",
+    "storage_bucket": "cardrecyclefrebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078371730465:android:d0c5607bb2cf15ea",
+        "android_client_info": {
+          "package_name": "com.example.sabinmj.cardviewrecyclefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078371730465-iqtbvbfuseude22an30ebh6pb6p4dlhb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sabinmj.cardviewrecyclefirebase",
+            "certificate_hash": "4F6C40100A793FDA145283D6F90EB07F3BFBDDD3"
+          }
+        },
+        {
+          "client_id": "1078371730465-8ke4qje4hrnm11mu7ksq03m54h3hsam7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCrXAlfNTfAIRTCQwJE1kSexRRCNy_gi4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
